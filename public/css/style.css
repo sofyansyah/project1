@@ -1,0 +1,202 @@
+.container-fluid{
+	max-width: 1000px;
+}
+.container{
+	max-width: 1000px;
+	/*height: 100px!important;*/
+	margin-top: 0;
+	margin-bottom: :0px;
+}
+.navbar{
+	background-color: #fff!important;
+	top: 0;
+	width: 100%;
+	z-index: 999;
+	
+}
+.navbar li a, .navbar-brand{
+	color:#777!important;
+}
+.navbar li a:hover{
+	background: none;
+	color: #aaa;
+}
+.icon-bar{
+	background-color: #ff6655;
+}
+.panel-default, .panel-body{
+	border: none!important;
+	box-shadow: none;
+}
+.subli {
+	max-width: 100%;
+	margin: 0 auto;
+}
+p, select, span, input, a, li, textarea{
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h1, h2{
+	font-family: 'Roboto', sans-serif;
+	color: #9EC5AB!important;
+
+}
+h3,h4, label, .value{
+	font-family: 'Roboto', sans-serif;
+
+
+}
+h3,h4, label, p, span, a, li{
+	color: #2a2a2a;
+	line-height: 1.3;
+}
+body{
+	background-color: #fff!important;
+	
+}
+li{
+	list-style-type: none;
+}
+.nopadding{
+	padding: 0;
+}
+.textcenter {
+	text-align: center;
+}
+.textleft {
+	text-align: left;
+}
+.textright {
+	text-align: right;
+}
+ul{
+	padding-left: 0;
+}
+.nomargin {
+	margin: 0;
+}
+.name_user{
+	color: #333;
+	font-family: 'sanfrancisco-displaymedium';
+}
+.post_date{
+	font-size: 12px;
+}
+.side-menu li{
+	font-family: 'sanfrancisco-displaymedium';
+	color: #666;
+}
+.button-status li{
+	display: inline-block;
+}
+.btn{
+	border:none!important;
+	font-size: 12px;
+	font-family: 'sanfrancisco-displaymedium';
+}
+.form-control{
+	border:1px solid #e9e9e9!important;
+	background: #fafafa !important;
+	box-shadow: none;
+	max-width: 300px;
+	min-width: auto;
+}
+.menu{
+	margin-top: 3px;
+}
+.menu a{
+	font-family: 'sanfrancisco-displaymedium' !important;
+
+}
+/*.navbar-brand{
+	padding:17px 15px;
+	}*/
+	textarea{
+		resize: none;
+	}
+	.nav-tabs, .nav-tabs li a{
+		border:none!important;
+		color: #666!important;
+	}
+	.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+		background-color: #fafafa!important;
+		color:#ff6655!important;
+		font-family: 'sanfrancisco-displaybold'
+	}
+	.banner{
+		
+		background-size: 100%;
+	}
+	.panel{
+		background-color: #fff!important;
+		border: 1px solid #e9e9e9 !important;
+	}
+	.sub-menu-profile li{
+
+		display: inline-block!important;
+		padding: 0 10px!important;
+		color: #666;
+		font-weight: bold;
+
+	}
+	.sub-menu-profile li a{
+		color: #aaa;
+
+	}
+
+	.social-media li{
+		display: inline-block;
+		padding:5px 14px;
+	}
+	.social-media li .fa{
+		font-size: 17px;
+	}
+	.like-status li{
+		display: inline-block!important;
+	}
+	.count-discuss li{
+		display: inline-block!important;
+	}
+	.btn-info, .btn-primary{
+		background-color: #fff;
+		border: 2px solid #ff6655!important;
+		font-family: 'roboto';
+		font-weight: bold;
+		color: #ff6655;
+		padding: 10px;
+	}
+
+	.btn-info:hover, .btn-primary:hover{
+		background-color: #ff6655!important;
+	}
+
+	a:link {
+		text-decoration: none!important;
+		
+	}
+
+	a:visited {
+		text-decoration: none!important;
+	}
+
+	a:hover {
+		text-decoration: none!important;
+		color: #333;
+	}
+
+	a:active {
+		text-decoration: underline;
+	}
+
+	textarea:focus{
+		border: 0 none #FFF;
+		overflow: hidden;
+		outline:none;
+	}
+	textarea:visited {
+		border:1px solid #fff!important;
+	}
+	.fa-heart-o{
+		color: #666!important;
+	}

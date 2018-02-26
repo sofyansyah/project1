@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'sanfrancisco-displayblack';
+  src: url('../fonts/SanFranciscoDisplay-Black.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-displaybold';
+  src: url('../fonts/SanFranciscoDisplay-Bold.otf');
+}
+
+font-face {
+  font-family: 'sanfrancisco-displayheavy';
+  src: url('../fonts/SanFranciscoDisplay-Heavy.otf');
+}
+
+font-face {
+  font-family: 'sanfrancisco-displaylight';
+  src: url('../fonts/SanFranciscoDisplay-Light.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-displaymedium';
+  src: url('../fonts/SanFranciscoDisplay-Medium.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-displayregular';
+  src: url('../fonts/SanFranciscoDisplay-Regular.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-displaysemibold';
+  src: url('../fonts/SanFranciscoDisplay-Semibold.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-displaythin';
+  src: url('../fonts/SanFranciscoDisplay-Thin.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-displayultralight';
+  src: url('../fonts/SanFranciscoDisplay-Ultralight.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-bold';
+  src: url('../fonts/SanFranciscoText-Bold.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-bolditalic';
+  src: url('../fonts/SanFranciscoText-Bolditalic.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-heavy';
+  src: url('../fonts/SanFranciscoText-Heavy.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-heavyitalic';
+  src: url('../fonts/SanFranciscoText-Heavyitalic.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-light';
+  src: url('../fonts/SanFranciscoText-Light.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-lightitalic';
+  src: url('../fonts/SanFranciscoText-Lightitalic.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-medium';
+  src: url('../fonts/SanFranciscoText-Medium.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-mediumitalic';
+  src: url('../fonts/SanFranciscoText-Mediumitalic.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-regular';
+  src: url('../fonts/SanFranciscoText-Regular.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-regularitalic';
+  src: url('../fonts/SanFranciscoText-Regularitalic.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-semibold';
+  src: url('../fonts/SanFranciscoText-Semibold.otf');
+}
+
+@font-face {
+  font-family: 'sanfrancisco-semibolditalic';
+  src: url('../fonts/SanFranciscoText-Semibolditalic.otf');
+}
